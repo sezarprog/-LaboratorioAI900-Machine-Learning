@@ -14,6 +14,11 @@
 
 > [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
+## Passo a passo
 
+*Abrir o link abaixo e seguir as instruções*
+> [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
+
+### Telas:
 
 
