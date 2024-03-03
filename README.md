@@ -20,6 +20,7 @@
 > [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
 
 ### Telas:
+*em destaque estão os nomes preenchidos, de livre escolha.*
 
 ![image](https://github.com/sezarprog/-LaboratorioAI900-Machine-Learning/assets/153564526/e120e2f5-a6de-4409-99d4-eb4b8f884559)
 
