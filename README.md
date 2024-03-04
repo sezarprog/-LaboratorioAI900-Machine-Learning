@@ -24,7 +24,7 @@
 - [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
 
 ### Telas/etapas:
-Associate a resource with the studio
+Associate a resource with the studio - Associar um recurso ao estúdio
 
 *em destaque estão os nomes preenchidos, de livre escolha.*
 
@@ -41,5 +41,6 @@ Continuar seguindo as instruções contidas no link!
 - Clean-up
 
 ### Telas/etapas:
-Associate a resource with the studio
+Create an Azure Machine Learning workspace
+
 
