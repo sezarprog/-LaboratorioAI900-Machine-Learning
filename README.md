@@ -41,6 +41,7 @@ Continuar seguindo as instruções contidas no link!
 - Clean-up
 
 > ### *Link de base de dados para teste e enriquecimento do desafio de projeto:*
+![image](https://github.com/sezarprog/-LaboratorioAI900-Machine-Learning/blob/main/telas/Captura%20de%20tela%202024-03-06%20224638.png?raw=true) 
 Desafio de Projeto - Machine Learning na Prática no Azure ML
 (https://learn.microsoft.com/pt-br/azure/open-datasets/)
 ### Telas/etapas:
