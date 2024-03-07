@@ -40,6 +40,9 @@ Continuar seguindo as instruções contidas no link!
 - Test the deployed service
 - Clean-up
 
+> ### *Link de base de dados para teste e enriquecimento do desafio de projeto:*
+Desafio de Projeto - Machine Learning na Prática no Azure ML
+(https://learn.microsoft.com/pt-br/azure/open-datasets/)
 ### Telas/etapas:
 Create an Azure Machine Learning workspace
 
