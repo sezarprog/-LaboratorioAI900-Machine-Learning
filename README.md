@@ -46,6 +46,6 @@ Associate a resource with the studio - Associar um recurso ao estúdio
 Desafio de Projeto - Machine Learning na Prática no Azure ML
 (https://learn.microsoft.com/pt-br/azure/open-datasets/)
 
-> ## Parte 3 - Neste projeto foi realizar pesquuiisa soobre a COVID19.
+> ## Parte 3 - Neste projeto foi realizado ma pesquisa sobre a COVID-19.
 > [Link da base de dados](https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.csv)
 > 
