@@ -30,7 +30,8 @@ Associate a resource with the studio - Associar um recurso ao estúdio
 
 ![image](https://github.com/sezarprog/-LaboratorioAI900-Machine-Learning/assets/153564526/e120e2f5-a6de-4409-99d4-eb4b8f884559)
 
-Continuar seguindo as instruções contidas no link!
+## Como obter sucesso neste lab:
+- Continuar seguindo as instruções contidas no link!
 
 > ## Parte 2 - Passo a passo (***Explore Automated Machine Learning in Azure Machine Learning***)
 - Create an Azure Machine Learning workspace
@@ -44,7 +45,7 @@ Continuar seguindo as instruções contidas no link!
 ![image](https://github.com/sezarprog/-LaboratorioAI900-Machine-Learning/blob/main/telas/Captura%20de%20tela%202024-03-06%20224638.png?raw=true) 
 Desafio de Projeto - Machine Learning na Prática no Azure ML
 (https://learn.microsoft.com/pt-br/azure/open-datasets/)
-### Telas/etapas:
-Create an Azure Machine Learning workspace
 
-
+> ## Parte 3 - Neste projeto foi realizar pesquuiisa soobre a COVID19.
+> [Link da base de dados](https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.csv)
+> 
