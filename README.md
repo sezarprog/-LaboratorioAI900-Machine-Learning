@@ -31,7 +31,8 @@ Associate a resource with the studio - Associar um recurso ao estúdio
 ![image](https://github.com/sezarprog/-LaboratorioAI900-Machine-Learning/assets/153564526/e120e2f5-a6de-4409-99d4-eb4b8f884559)
 
 ## Como obter sucesso neste lab:
-- Continuar seguindo as instruções contidas no link!
+## *Continuar seguindo as instruções contidas no link!*
+- [Explore Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
 
 > ## Parte 2 - Passo a passo (***Explore Automated Machine Learning in Azure Machine Learning***)
 - Create an Azure Machine Learning workspace
